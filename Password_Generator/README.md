@@ -24,6 +24,6 @@ A simple password generator written in C. It lets you choose the desired passwor
 **Clone or download** this repository to your Linux machine:
 
   1. git clone https://github.com/Zzorro-Kid/Password_Generator.git
-  2. Go to Downloads 
-  3. Go to Password_Generator 
+  2. Go to **Downloads** directory
+  3. Go to **Password_Generator** folder
   4. Run: `run.sh`
